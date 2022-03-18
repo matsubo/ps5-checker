@@ -3,9 +3,10 @@
 ## Abstract
 
 - Check the Amazon's web page and show notification if PS5 stock is available and eligible to buy.
-- Runs on only MacOS in accordance of notification logic.
+- Runs on only macOS in accordance of notification logic.
 
 Sample notification:
+
 <img width="416" alt="image" src="https://user-images.githubusercontent.com/98103/158922724-d2e40378-8088-465f-8bf4-1c614d05ac9d.png">
 
 ## Setup
