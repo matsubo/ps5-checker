@@ -1,4 +1,4 @@
-# PS5 checker
+# PS5 sales status checker
 
 ## Abstract
 
